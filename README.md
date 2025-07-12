@@ -31,8 +31,8 @@ An AI-powered web application that extracts meaningful insights (like title, abs
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gemini-pdf-insight.git
-cd gemini-pdf-insight
+git clone https://github.com/yourusername/DocuGem-AI.git
+cd DocuGem-AI
 
 # Create a virtual environment
 python -m venv venv
