@@ -2,7 +2,7 @@
 
 An AI-powered web application that extracts meaningful insights (like title, abstract, authors, and publication date) from uploaded research PDFs using **Google Gemini**, **LangChain**, and **ChromaDB**. Users can also ask natural language questions and get context-aware answers.
 
-![App Screenshot][Screenshot .png]
+![App Screenshot][screenshot.png]
 
 ---
 
